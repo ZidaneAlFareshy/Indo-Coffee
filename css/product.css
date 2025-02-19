@@ -45,7 +45,7 @@ body {
 }
 
 #product .card3 {
-  width: 100%;
+  width: 500px;
   border: none;
   border-top-left-radius: 0px;
   border-top-right-radius: 0px;
@@ -453,7 +453,7 @@ body {
 @media (max-width: 768px) {
   /* hero */
   #product .product-container-1 .card3 {
-    width: 80%;
+    width: 440px;
     padding: 10px;
     margin: 0 auto;
     display: flex;
